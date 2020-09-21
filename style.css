@@ -4,7 +4,7 @@
     padding: 0px;
 }
  body{
-    background-image: url('../joke.png');
+    background-image: url('./joke.png');
     background-size: cover;
     width:100vw;
     height: 100vh;
@@ -51,6 +51,7 @@
     color: whitesmoke;
     outline: none;
     border: none;
+    cursor: pointer;
     
 
 }
